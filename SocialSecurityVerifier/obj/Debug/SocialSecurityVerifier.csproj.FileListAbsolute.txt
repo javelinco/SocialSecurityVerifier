@@ -1,1 +1,6 @@
 C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\bin\Debug\SocialSecurityVerifier.exe.config
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\bin\Debug\SocialSecurityVerifier.exe
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\bin\Debug\SocialSecurityVerifier.pdb
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\obj\Debug\SocialSecurityVerifier.csprojResolveAssemblyReference.cache
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\obj\Debug\SocialSecurityVerifier.exe
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\obj\Debug\SocialSecurityVerifier.pdb
