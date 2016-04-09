@@ -1,0 +1,1 @@
+C:\ProjectDev\SocialSecurityVerifier\SocialSecurityVerifier\bin\Debug\SocialSecurityVerifier.exe.config
